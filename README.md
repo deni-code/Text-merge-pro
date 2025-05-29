@@ -40,12 +40,12 @@ The application uses a carefully selected color palette:
 - **Clear Functions**: Use "Clear Files" or "Clear Text" buttons to reset inputs
 
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## 🆘 Support
+##  Support
 
 If you encounter any issues or have questions:
 
